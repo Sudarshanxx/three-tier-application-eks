@@ -1,0 +1,16 @@
+# Node
+node_modules/
+.env
+*.log
+
+# AWS / Terraform
+.aws/
+awscliv2.zip
+.terraform/
+*.tfstate
+*.tfstate.*
+
+# Build
+dist/
+build/
+
